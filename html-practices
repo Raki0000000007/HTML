@@ -1,0 +1,44 @@
+<form>
+    <input type="date">
+    <input type="color" name="" id="" value="" />
+    <br />
+    <input type="file">
+    <br>
+    <input type="range" name="" id="" value="" />
+    <br />
+    <input type="button" name="clik" id="" value="click me for " />
+    <br />
+    <input type="submit" name="" id="" value="SUMBIT" />
+    <br />
+  <label for="male">male</label>
+   <input type="radio" id="male" name="gender" value="" />
+   <br />
+   <label for="female">female</label>
+    <input type="radio" id="female" name="gender" value="" />
+    <br />
+    <label for="others">others</label>
+     <input type="radio" id="others" name="gender" value="" />
+     <br />
+     <label for="mango">mango</label>
+     <input type="checkbox" name="fruits" id="mango" value="mango" />
+     <label for="banana">banana</label><br />
+     <input type="checkbox" name="fruits" id="banana" value="banana" />
+     <label for="straberry">straberry</label><br />
+     <input type="checkbox" name="fruits" id="straberry" value="straberry" />
+     <label for="orange">orange</label><br />
+     <input type="checkbox" name="fruits" id="orange" value="orange" />
+     <br />
+     <label for="Country">Select your Country</label>
+     <select name="Country" id="Country">
+       <option value="India">India</option>
+       <option value="US">US</option>
+       <option value="UK">UK</option>
+       <option value="OTHERS">OTHERS</option>
+       
+     </select>
+     
+   <br />
+   <textarea name="story" id=story rows="4" cols="40">
+     type your story
+   </textarea>
+   </form>
