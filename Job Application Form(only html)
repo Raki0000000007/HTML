@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+     <form>
+       APPLICATION FOR <br />
+       <select name="JOB" id="JOB">
+         <option value="Job-a">Job-a</option>
+         <option value="Job-b">Job-b</option>
+       </select>
+       <br />
+       <br />
+       <label for="F-name">First Name:-</label>
+       <input type="text" name="F-name" id=""  />
+       <br />
+       <br />
+       <label for="L-name">Last Name:-</label>
+       <input type="text" name="L-name" id=""  />
+       <br />
+       <br />
+       <i>GENDER</i> <br />
+      <input type="radio" id="male" name="gender" value="male">
+      <label for="male">male</label><br>
+      <input type="radio" id="female" name="gender" value="female">
+      <label for="female">female</label><br>
+      <input type="radio" id="others" name="gender" value="others">
+      <label for="others">others</label>
+       <br />
+       <br />
+       <label for="calender">DOB</label>
+       <input type="date" name="calender" id=""  />
+       <br />
+       <br />
+       <label for="ADDRESS">ADDRESS</label>
+       <textarea name="ADDRESS" id= rows="8" cols="40"></textarea>
+       <br />
+       <br />
+       <label for="PHONE">PHONE</label>
+       <input type="number" name="phone" max="6" />
+       <br />
+       <br />
+       <label for="PINCODE">PINCODE</label>
+       <input type="number" name="PINCODE" max="6" />
+       <br />
+       <br />
+       <label for="CITY">CITY</label>
+       <input type="text" name="CITY" />
+       <br />
+       <br />
+       <label for="email">email</label>
+       <input type="email" name="emal" id="" value="" required="" />
+       <br />
+       <br />
+       <label for="RESUME">RESUME</label>
+       <input type="file" name="RESUME" id="" value="" required="" />
+       <br />
+       <br />
+       <label for="RESUME">CURRICULAM VITAE</label>
+       <input type="file" name="CURRICULAM VITAE" id="" value="" />
+       <br />
+       <br />
+       <label for="portfolio">Portfolio Link</label>
+       <input type="link" name="portfolio" id="" value="" />
+       <br />
+       <br />
+       Are you willing to relocate <br />
+       <label for="yes">yes</label>
+       <input type="radio" name="LOCATION" id="yes" value="yes" />
+       <br />
+       <label for="no">no</label>
+       <input type="radio" name="LOCATION" id="no" value="no" />
+       <br />
+       <br />
+       <input type="submit"  value="send Application" />
+       
+     </form>
+     
+       </body>
+</html>
