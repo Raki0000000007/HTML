@@ -8,8 +8,8 @@
      <form>
        APPLICATION FOR <br />
        <select name="JOB" id="JOB">
-         <option value="Job-a">Job-a</option>
-         <option value="Job-b">Job-b</option>
+         <option value="Developer">Developer</option>
+         <option value="Tester">Tester</option>
        </select>
        <br />
        <br />
