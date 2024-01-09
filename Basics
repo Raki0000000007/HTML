@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ALL TAGS PRACTICES</title>
+</head>
+<body>
+    <!-- HEADING TAGS -->
+    <h1>Rakesh.c</h1>
+    <h2>Graduate Trainee Engineer</h2>
+    <h3>HCL Technologies</h3>
+    <h4>JIGNI</h4>
+    <h5>BENGALURU</h5>
+
+    <!-- font designs -->
+    <p><i><s>Lorem ipsum dolor sit amet consectetur adipisicing elit.</s> <br>
+        <b>Dicta asperiores et pariatur veritatis esse rem hic odit quam,</b></i><br>
+         <u>sunt eaque accusamus provident ratione cupiditate illum!</u></p>
+    <!-- tables -->
+    <table border="1">
+        <tr>
+            <th>NAME</th>
+            <th>AGE</th>
+            <th>Place</th>
+            <th>Number</th>
+            
+        </tr>
+        <tr>
+            <td>RAKESH</td>
+            <td>55</td>
+            <td>Bengaluru</td>
+            <td>1234567890</td>
+        </tr>
+    </table>
+    <br>
+    <!-- LISTS -->
+    <ol type="I">
+        <li>2 wheelers</li>
+        <ul>
+            <li>electric</li>
+            <li>petrol</li>
+        </ul>
+        <li>3 wheelers</li>
+        <ul>
+            <li>Auto</li>
+        </ul>
+        <li>4 wheelers</li>
+        <ul>
+            <li>cars</li>
+            <li>trucks</li>
+            <li>tempo</li>
+            <li>Bus</li>
+        </ul>
+    </ol>
+    <br>
+    <!-- SUPER AND SUB SCRIPTS -->
+    2H2+O2=>H20 <-------------X <br>
+    2H<sub>2</sub>+O<sub>2</sub>=>H<sub>2</sub>0
+    <br>
+<br>
+    (a+b)2=a2+b2+2ab <-------------X <br>
+    (a+b)<sup>2</sup>=a<sup>2</sup>+b<sup>2</sup>+2ab
+
+    <br>
+    <br>
+    <!-- HORIZONTAL LINE -->
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. <br>Amet doloribus eveniet provident iste fuga, animi voluptates voluptatum exercitationem doloremque <br>odit quibusdam ratione asperiores commodi nihil.</p>
+    <hr>
+    <p>Lorem ipsum dolor sit amet consectetur <br> adipisicing elit. Animi, et?</p>
+    <hr>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. <br>Illum dolores, culpa ad dicta voluptatem quia.</p>
+    <hr>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda dolor omnis sint iste iusto,<br> earum adipisci ipsam non vel ab.</p>
+    <hr>
+    <br>
+    <big>RAKESH</big>
+    <small>HCL TECHNOLOGIES</small>
+    <br>
+    <a href="#points">TARGET</a>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam blanditiis exercitationem vitae optio recusandae nulla rerum quod qui, consequatur fugiat? Natus culpa dolore nam esse voluptatem corrupti minima. Corporis, at.
+    Asperiores corporis itaque vitae! Laudantium libero quia culpa, placeat, facilis voluptatem minima enim dolorem alias dolores, corrupti optio. Nemo quisquam explicabo nihil eius unde dolores, nesciunt tempora beatae quae accusamus!
+    Culpa perferendis voluptate fugiat eveniet nostrum autem, accusantium, pariatur quidem totam maxime odio quis quas soluta aut quasi eos iure commodi veniam amet omnis saepe distinctio magni! Atque, nisi cum!
+    Aliquam, esse incidunt sit consequatur, vel commodi at excepturi labore odio repellat rem aliquid aut molestiae ipsam a facere maiores quaerat voluptate dolorum earum aspernatur! Laborum doloremque cumque voluptate iure!
+    Officia excepturi veritatis velit ipsa itaque dicta at numquam voluptas mollitia dolores facilis nisi illum atque, voluptatibus delectus aliquid doloremque architecto maiores tempora vel natus molestiae reiciendis incidunt rerum. Tempore.
+       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus asperiores minus assumenda aliquam. Modi praesentium ex totam. Alias autem optio ipsum? Dolore porro veritatis saepe consequatur repellat nostrum soluta. Explicabo. </p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur accusantium cumque, quaerat impedit odio sequi minima architecto temporibus adipisci expedita recusandae explicabo ab, sint asperiores laborum rerum voluptates, voluptate amet.
+    Deserunt possimus, voluptas quod itaque natus facilis nam! Dolore dolores praesentium soluta ea cupiditate, deleniti voluptate officiis iste ut, hic adipisci dignissimos debitis obcaecati nostrum excepturi aperiam rem non. Error.
+    Illum accusamus fugiat odit quas eligendi. Tenetur, laboriosam? Aperiam veritatis dolor fugit repellendus obcaecati debitis, aspernatur esse corrupti quasi numquam, perspiciatis cupiditate quia explicabo enim soluta rerum? Quod, iste eveniet.
+    Sit, alias dolores. Facere, rerum! Dolore necessitatibus optio quibusdam, amet illum qui placeat excepturi similique officiis minus vero nesciunt veritatis veniam odio corporis pariatur, ratione aliquam facilis, expedita eveniet ab.
+    Quia culpa, magnam nostrum ut officiis suscipit ratione dolores consequuntur rem saepe vel, qui aliquam accusamus commodi? Libero eum consectetur quod unde aut doloremque cumque, sequi autem omnis laudantium! Saepe!
+    Voluptate doloribus distinctio blanditiis hic, rerum officia tempore et pariatur, enim quam obcaecati perferendis minima vero repellendus, eveniet voluptatibus sunt dignissimos quidem ad? Illum ab, amet inventore minus harum cupiditate.
+    Ratione necessitatibus nemo repudiandae suscipit autem iusto ab? Repellendus rerum ipsum in autem saepe ullam! Ipsum rerum atque aut! Cum aperiam tempora velit blanditiis assumenda incidunt nemo ullam, tempore harum!
+    Libero soluta harum rerum omnis rem, minima eligendi! Dolorum dignissimos aliquam facilis quo ad modi aperiam. Debitis quis, voluptate asperiores magnam reprehenderit distinctio, atque, suscipit mollitia autem dicta blanditiis numquam!
+    Vitae ipsum reiciendis, laboriosam aliquam facere odit alias consequuntur tenetur illum odio, facilis qui totam voluptates minima, ipsam aut beatae! Vero, iste atque qui suscipit illo placeat? Eligendi, aperiam consequatur?
+    Nesciunt culpa veniam obcaecati cumque facere! Illum inventore eos impedit molestias quisquam aperiam quae expedita dolore aliquam recusandae ad, animi voluptatem ducimus incidunt cum ipsam ullam placeat sed dicta deleniti.</p>
+    <p id="points">above anchor tag maps here</p>
+</body>
+</html>
