@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+        <table >
+            <tr>
+              <td><img src="https://i.pinimg.com/564x/9b/a2/57/9ba25796112cad616be27e473ae1e149.jpg" width="75"  alt="Photo" /> </td> 
+              <td>
+                <big>JERRY</big>
+                <p>GET at vMNC</p>
+                <p>passionate about programming</p></td>
+              </tr>
+        </table>
+     
+     <hr />
+     QUALIFICATION
+     <table border="2">
+       <tr>
+         <th>course</th>
+         <th>institution</th>
+          <th>results</th>
+           <th>year</th>
+       </tr>
+       <tr>
+         <td>10th</td>
+         <td>central school</td>
+         <td>90%</td>
+         <td>2015</td>
+       </tr>
+       <tr>
+         <td>12th</td>
+         <td>central pu college</td>
+         <td>80%</td>
+         <td>2017</td>
+       </tr>
+       <tr>
+         <td>Degree</td>
+         <td>RR university</td>
+         <td>70%</td>
+         <td>2021</td>
+       </tr>
+     </table>
+     <h1>INTERNSHIP</h1>
+     <p><i><u>RED DROP blood bank management system at Acronton technologies</u></i></p>
+     <ul>
+       <li>
+         Basically stores the information about the persons who 's having the perticualar blood  
+      
+       </li>
+       <li>
+         also stores the collected blood from the user where it would be used for the emergency purpose
+       </li>
+     </ul>
+     <br />
+     <h1>Projects</h1>
+     <p><i><u>Android app for smart shopping</u></i></p>
+     <ul>
+       <li>
+        basically helps the customer to map the product which are in different location
+       </li>
+       <li>
+         this also include automatic billing
+       </li>
+     </ul>
+     <br />
+      <p><i><u>Basic</u></i></p>
+     <ul>
+       <li>
+          wertu ds i vtryeiw vb tryeuiwoqlsknc guwjsmzxn wiuefia iFOIRO3R OI2UCON3RC 2O3C23R OC 3RCOY 3R O3Y 3 customer3 
+       </li>
+       <li>
+        wertyu dg fkl;rtu ety tyusd sgerh ewhethwtw trth th the teee ee ewt eh ethetheqtjj ryjrj rjr jrj <br />
+        wegwg rreq rhehehth teheth thttete tte ett te teetyk w yteqj  te ry rtj
+       </li>
+     </ul>
+     <h1>SKILLS</h1>
+     <ol type="I">
+       <li >Front-end</li>
+       <ul>
+         <li>HTML</li>
+         <li>css</li>
+       </ul>
+     
+        <li>back-end</li>
+       <ul>
+         <li>JAVA</li>
+         <li>MY SQL</li>
+         <li>Javascript</li>
+       </ul>
+     </ol>
+     <hr />
+     Contact me <br />
+     Email:-jerry@gmail.com <br />
+     LinkedIn:-jerry098 <br />
+     Github Repo:-jerry0062 <br />
+     </body>
+</html>
