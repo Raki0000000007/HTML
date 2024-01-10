@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   
+    <h2>CANDIDATE CERTIFICATE OF 12th GRADE</h2>
+    <h1>GOVENMENT OF KARNATAKA</h1>
+    <p>This is to certify that the candidate below has cmpleted the course ans passed the second year Pre university Examination with the following details</p>
+    <img style="float: left;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qG-5Xxo1ZxQUfjsXA7d_1j8VfyhJemtWxQ&usqp=CAU" width="50" alt="" />
+        
+            NAME:- Raj <br>
+            Reg.Number:-566667 <br>
+            Father Name:-MANU <br>
+            Mother Name:-RANI <br>
+            Year of Pass:-2021 <br>
+  
+    <table border="2">
+        <tr>
+            <th>Subjects</th>
+            
+            <th rowspan="2">Reg.Number</th>
+            <th rowspan="2">YEAR</th>
+            <th rowspan="2">Max Marks</th>
+            <th rowspan="2">Marks</th>
+            <th colspan="4">Marks Obtained</th>
+           
+            
+        </tr>
+        <tr>
+            <th>PART-1</th>
+            <th>Grace</th>
+            <th>Total</th>
+            <th>In Words</th>
+        </tr>
+        <tr>
+            <td>Kannada</td>
+            <td>566667</td>
+            <td>2017</td>
+            <td>100</td>
+            <td>80</td>
+            <td>0</td>
+            <td>80</td>
+            <td>EIGHTY</td>
+
+        </tr>
+
+        <tr>
+            <td>ENGLISH</td>
+            <td>566667</td>
+            <td>2017</td>
+            <td>100</td>
+            <td>90</td>
+            <td>0</td>
+            <td>80</td>
+            <td>NINETY</td>
+
+        </tr>
+        <tr>
+            <th>PART-2</th>
+        </tr>
+
+        <tr>
+            <td>MATHS</td>
+            <td>566667</td>
+            <td>2017</td>
+            <td>100</td>
+            <td>64</td>
+            <td>0</td>
+            <td>64</td>
+            <td>SIXTY FOUR</td>
+
+        </tr>
+        <tr>
+            <td>PHYSICS</td>
+            <td>566667</td>
+            <td>2017</td>
+            <td>100</td>
+            <td>78</td>
+            <td>0</td>
+            <td>78</td>
+            <td>SEVENTY EIGHT</td>
+
+        </tr>
+        <tr>
+            <td>CHEMISTRY</td>
+            <td>566667</td>
+            <td>2017</td>
+            <td>100</td>
+            <td>80</td>
+            <td>0</td>
+            <td>80</td>
+            <td>EIGHTY</td>
+
+        </tr>
+        <tr>
+            <td>COMP SCIENCE</td>
+            <td>566667</td>
+            <td>2017</td>
+            <td>100</td>
+            <td>91</td>
+            <td>0</td>
+            <td>90</td>
+            <td>NINETY</td>
+
+        </tr>
+
+        <tr>
+            <th>Total</th>
+            <td colspan="6"> FOUR SEVEN SEVEN</td>
+                <td><b>477</b></td>
+        </tr>
+    </table>
+    <H2>COLLEGE DETAILS</H2>
+    COLLEGE NAME:-CENTRAL COLLEGE, BENGALURU<br>
+    COLLEGE CODE.NO:-GG388<br>
+    MEDIUM:-ENGLISH<br>
+    DATE OF RESULTS:-12/04/2017<br>
+</body>
+</html>
